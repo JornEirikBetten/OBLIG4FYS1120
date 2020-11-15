@@ -1,0 +1,2 @@
+# OBLIG4FYS1120
+Kode brukt i OBLIG4 i FYS1120
